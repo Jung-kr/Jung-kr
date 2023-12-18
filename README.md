@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Jung-kr's%20Github" />
-
 <div align="center">
 실패를 두려워하지 않는 백엔드 개발자가 되기 위해 노력하고 있습니다.  
 </div>
