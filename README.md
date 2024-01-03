@@ -1,10 +1,10 @@
 # 정우용, Backend
 
 <div align="center">
-실패를 두려워하지 않는 백엔드 개발자가 되기 위해 노력하고 있습니다.  
+소통하는 백엔드 개발자가 되기 위해 노력하고 있습니다.  
 </div>
 <div align="center">
-현재는 Spring과 Java를 학습하고 있습니다.
+현재 Spring과 Java를 학습하고 있습니다.
 </div>
 
 <br />
